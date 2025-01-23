@@ -9,9 +9,6 @@ An interactive and simple Tic Tac Toe game for Android, developed using Java and
 - **Win/Draw detection**: Highlights the winner or declares a draw.
 - **Game reset**: Reset the game to play again instantly.
 
-## Screenshots
-
-_Add screenshots here to showcase the app’s interface._
 
 ## Installation
 
@@ -35,8 +32,9 @@ _Add screenshots here to showcase the app’s interface._
 
 ## Technologies Used
 
-- **Programming Language**: Java
-- **Framework**: Android SDK
+- **Programming Language**: Java 21
+- **Framework**: Android SDK 2022.2.1.8
+- **JDK**: Oracle JDK 23.0.2
 - **Development Environment**: Android Studio
 
 ## Future Enhancements
