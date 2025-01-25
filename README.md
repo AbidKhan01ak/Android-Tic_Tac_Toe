@@ -22,7 +22,7 @@ An interactive and simple Tic Tac Toe game for Android, developed using Java and
 ## How to Play
 
 1. Launch the app on your Android device.
-2. Two players take turns marking their symbol (X or O) on the grid.
+2. Two players take turns marking their symbol (Red Or Yellow coins) on the grid.
 3. The game detects and announces a winner if three consecutive symbols align:
    - Horizontally
    - Vertically
